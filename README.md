@@ -1,8 +1,25 @@
+<div align="center">
+
 # Mini-Claw
 
-Lightweight Telegram bot for persistent AI conversations using [Pi coding agent](https://github.com/badlogic/pi-mono).
+[![GitHub stars](https://img.shields.io/github/stars/htlin222/mini-claw?style=flat-square)](https://github.com/htlin222/mini-claw/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/htlin222/mini-claw?style=flat-square)](https://github.com/htlin222/mini-claw/commits/main)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+[![Node.js](https://img.shields.io/badge/Node.js-22%2B-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-A minimalist alternative to OpenClaw - use your Claude Pro/Max or ChatGPT Plus subscription directly in Telegram, no API costs.
+**Lightweight Telegram bot for persistent AI conversations using [Pi coding agent](https://github.com/badlogic/pi-mono).**
+
+A minimalist alternative to [OpenClaw](https://github.com/nicepkg/openclaw) -- use your Claude Pro/Max or ChatGPT Plus subscription directly in Telegram, no API costs.
+
+</div>
+
+---
+
+## Why Mini-Claw?
+
+> You already pay for Claude Pro or ChatGPT Plus. Why pay again for API tokens?
+> Mini-Claw lets you chat with your existing subscription through Telegram -- persistent sessions, file attachments, shell access, zero extra cost.
 
 ## Features
 
@@ -40,7 +57,7 @@ A minimalist alternative to OpenClaw - use your Claude Pro/Max or ChatGPT Plus s
 
 ```bash
 # Clone and install
-git clone https://github.com/yourusername/mini-claw
+git clone https://github.com/htlin222/mini-claw
 cd mini-claw
 pnpm install
 
